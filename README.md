@@ -30,6 +30,27 @@ This app allows users to:
 1. Clone this repository or download the source code.
 2. Make sure you have the following structure:
 
+
+3. Open `index.html` in your browser.
+
+## Folder Structure
+
+- `index.html` → Main HTML page
+- `style.css` → All styles for the app
+- `script.js` → JavaScript functionality
+- `images/` → Folder containing icons for task status
+
+## Credits
+
+Developed with ❤️ by **Saad Creations**
+
+## Demo
+
+Coming soon!
+
+---
+
+
 👨‍💻 Developed By:
 Saad (Saad Creations)
 
